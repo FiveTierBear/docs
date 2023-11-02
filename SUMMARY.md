@@ -20,6 +20,8 @@
   * [Distribution Networks](our-company/our-products/distribution-networks.md)
   * [Software Features](our-company/our-products/software-features.md)
 * [Blog](our-company/blog/README.md)
+  * [Social List Building and Outreach](our-company/blog/social-list-building-and-outreach.md)
+  * [Cost per Thousand (CPM) Impression Pricing and Recommended Bidding](our-company/blog/cost-per-thousand-cpm-impression-pricing-and-recommended-bidding.md)
   * [The benefits of Connected Television (CTV) advertising for small companies](our-company/blog/the-benefits-of-connected-television-ctv-advertising-for-small-companies.md)
   * [The lasting “impression” of a Times Square billboard placement](our-company/blog/the-lasting-impression-of-a-times-square-billboard-placement.md)
   * [Small Business Marketing with Five Tier Connect](our-company/blog/small-business-marketing-with-five-tier-connect.md)
