@@ -1,0 +1,11 @@
+# Why are there restrictions on some advertising categories?
+
+Advertising brands with mature content – such as tobacco, alcohol, profanity, etc – is often restricted or come with a higher cost of advertising due to liability and risk. Brands dealing with these topics must remain extra aware that their actions can easily associate the partner network with negative repercussions. This can also lead to serious legal action, and potential risks of claims against the network from consumers.
+
+It’s important to note that laws and regulations may vary depending on the State or country, and it is the responsibility of the brand and the network to be aware of all laws, regulations, and standards of conduct in each area. In addition, the network must ensure that the brand abides by all terms of service involved in the product being advertised and the audience they can target.
+
+When it comes to advertising on television and radio, many networks are required to protect themselves with additional insurance premiums. This is because certain keywords and phrases related to mature content can be considered offensive by some viewers and can also be seen as a form of endorsement. In addition, certain networks may have special rules and regulations pertaining to certain products and companies, so it’s best to check with them before starting the advertising process.
+
+It should also be noted that many radio, television, and print networks have standards and practices departments who are responsible for maintaining a standard level of decency in the content being broadcasted. This means that any content related to mature topics such as tobacco, alcohol, profanity, and more, must also meet certain guidelines in order to remain in compliance with these standards.
+
+Overall, advertising brands with mature content comes with extra considerations as it relates to liability and risk. Networks must protect themselves with insurance premiums in order to maintain a safe and effective way of doing business with brands. Additionally, special rules and regulations must be followed when advertising on certain radio, television, or print networks. As such, it’s important to always remain aware of any laws, regulations, and standards that may be associated with this type of content and conduct due diligence in advance when considering an advertising campaign.
