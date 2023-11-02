@@ -2,11 +2,11 @@
 
 ## Our Company
 
-* [Home](README.md)
-  * [Five Tier Advantages](our-company/home/five-tier-advantages.md)
-  * [Core Services](our-company/home/core-services.md)
-  * [Case Studies](our-company/home/case-studies.md)
-  * [Testimonials & Press Coverage](our-company/home/testimonials-and-press-coverage.md)
+* [Overview](README.md)
+* [Five Tier Advantages](our-company/five-tier-advantages.md)
+* [Core Services](our-company/core-services.md)
+* [Case Studies](our-company/case-studies.md)
+* [Testimonials & Press Coverage](our-company/testimonials-and-press-coverage.md)
 
 ## Five Tier Connect
 
