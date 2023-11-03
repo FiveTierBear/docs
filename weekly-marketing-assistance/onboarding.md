@@ -1,5 +1,22 @@
 ---
 description: Establishing Access for Comprehensive Support
+cover: >-
+  https://images.unsplash.com/photo-1644132246573-bc75ce0a2946?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxvbmJvYXJkaW5nfGVufDB8fHx8MTY5OTAyNjA0NHww&ixlib=rb-4.0.3&q=85
+coverY: 84
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Onboarding

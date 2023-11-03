@@ -1,5 +1,22 @@
 ---
 description: Learn more about our $99 Marketing Assistance Package
+cover: >-
+  https://images.unsplash.com/photo-1533750349088-cd871a92f312?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxtYXJrZXRpbmd8ZW58MHx8fHwxNjk5MDI1Mjg3fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Overview
