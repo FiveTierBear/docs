@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/6520529d41d8a4d479122e4f_Untitled design (6)-p-800.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Jerry's Vodka
 
 File Under: Retail, Sales Generation, Branding

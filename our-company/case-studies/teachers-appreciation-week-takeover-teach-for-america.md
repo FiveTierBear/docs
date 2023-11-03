@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/651efaa8da4d313d9396731b_Untitled design-p-800.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Teacher’s Appreciation Week Takeover Teach For America
 
 **Overview**

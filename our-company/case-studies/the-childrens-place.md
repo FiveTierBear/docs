@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/651efe12835f453a270017a2_Untitled design (2)-p-800.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # The Children's Place
 
 File Under: Retail, Sales Generation, Advocacy

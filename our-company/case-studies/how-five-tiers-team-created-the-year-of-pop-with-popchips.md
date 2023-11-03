@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/651efca97c9425b854f00463_Untitled design (1)-p-800.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # How Five Tier’s Team Created the Year of Pop with Popchips
 
 #### Overview
