@@ -1,6 +1,8 @@
-# North Shore Long Island Jewish Health System
+---
+description: Healthcare, Engagement, Retention, Brand Building
+---
 
-File Under: Healthcare, Engagement, Retention, Brand Building
+# North Shore Long Island Jewish Health System
 
 Marketing a network of hospitals is tricky.  The relationship within a hospital is typically with the physician, unless it is an emergency in which case proximity is normally the highest priority.  So how do you shift the thought process to align with a hospital network versus a specific physician, and brand a hospital network when the need doesn’t exist so that when it does an educated decision takes place versus a reactionary decision?
 
