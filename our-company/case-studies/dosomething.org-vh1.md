@@ -1,21 +1,11 @@
+---
+description: Non-Profit, Cause Marketing, Lead Generation, Awareness
+---
+
 # DoSomething.org / VH1
 
-File Under: Non-Profit, Cause Marketing, Lead Generation, Awareness
+When VH1 called us late on a Friday to boost audience participation for the upcoming DoSomething.org awards airing on their network, we faced a tight two-week deadline. The target was set: to achieve 10,000 additional votes, we needed at least 40,000 more visits to the voting page, which required us to reach between 600,000 to 800,000 individuals. We crafted a robust cross-channel strategy with a strong focus on influencer marketing.
 
-It was a late-Friday afternoon when the phone rang.  It was the cable network VH1, who had recently announced their partnership and commitment to air the DoSomething.org awards.  “The awards are two weeks away” we heard, “and we are low in audience participation - what can you do to help?”
+We swiftly pinpointed the essential metrics and associated costs, built a resonant communication strategy, and deployed effective recruitment and monitoring tools.
 
-Using the metric that if we received 10,000 additional votes as part of our effort we would need to receive a minimum of 40,000 additional visits to the vote registration page which meant we would have to reach between 600,000-800,000 people - we developed a cross-channel plan with a heavy influencer marketing component.
-
-### The Five Tier Difference
-
-Through the technology that exists in Five Tier, we were able to:&#x20;
-
-* Quickly identify key metrics, and costs to achieve those metrics
-* Develop a communication strategy that would resonate with our target audience
-* Implement recruitment, monitoring, and measurement tools for the program
-
-### Results
-
-In less than ten days and in advance of the award show we hit our goal and the program was a success.  We far surpassed our goal by obtaining millions of impressions, 100,000+ additional site visits, and over 18,000 votes.  Furthermore we developed a network of influencers in these key markets, an asset for the client to use in future programs.&#x20;
-
-\
+Our efforts paid off remarkably. Not only did we meet our target in under ten days, but we also surpassed it. We secured millions of impressions, drove over 100,000 additional site visits, and garnered more than 18,000 votes. Plus, we cultivated a valuable network of influencers in key markets—a lasting asset for future campaigns.
