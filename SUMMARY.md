@@ -84,6 +84,11 @@
     * [Business Strategy](five-tier-connect/the-platform/ai-driven-support-services/business-strategy.md)
 * [FAQs](five-tier-connect/faqs.md)
 
+## Billboard Advertising
+
+* [Times Square Advertising Solutions](billboard-advertising/times-square-advertising-solutions/README.md)
+  * [Creative Specifications](billboard-advertising/times-square-advertising-solutions/creative-specifications.md)
+
 ## Weekly Marketing Assistance
 
 * [Overview](weekly-marketing-assistance/overview.md)
@@ -94,7 +99,3 @@
 ***
 
 * [📞 Contact Information](contact-information.md)
-
-## Billboard Advertising
-
-* [Times Square Advertising Solutions](billboard-advertising/times-square-advertising-solutions.md)
