@@ -6,13 +6,13 @@ description: >-
 
 # Times Square Advertising Solutions
 
-### [#overview](times-square-advertising-solutions.md#overview "mention")
+## Overview
 
 These solutions are crafted to offer businesses the opportunity to showcase their brand in the heart of New York City's Times Square, leveraging the high-impact advertising space to gain exposure and drive growth.
 
-### Advertising Packages
+## Advertising Packages
 
-#### 1. 10 Play Special
+### 1. 10 Play Special
 
 **Description**
 
@@ -30,7 +30,7 @@ A limited-time offer designed for businesses seeking a presence in Times Square 
 
 Inquire about the availability of this discounted special.
 
-#### 2. Most Popular Premium Location
+### 2. Premium Location
 
 **Description**
 
@@ -48,7 +48,7 @@ Ideal for small businesses and entrepreneurs, this package offers a premium loca
 
 Select the "Purchase" option for the Premium Location package.
 
-#### 3. Business
+### 3. Business Package
 
 **Description**
 
@@ -67,7 +67,7 @@ Targeted at growth-stage businesses, this package is aimed at increasing sales t
 
 Select the "Purchase" option for the Business package.
 
-#### 4. Enterprise
+### 4. Enterprise Package
 
 **Description**
 
