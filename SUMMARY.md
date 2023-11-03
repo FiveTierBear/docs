@@ -18,7 +18,7 @@
   * [The Children's Place](our-company/case-studies/the-childrens-place.md)
   * [DoSomething.org / VH1](our-company/case-studies/dosomething.org-vh1.md)
   * [Hyper Targeting Local Customers for a Top CBD Brand.](our-company/case-studies/hyper-targeting-local-customers-for-a-top-cbd-brand..md)
-  * [STATE UNIVERSITY OF NEW YORK (SUNY)](our-company/case-studies/state-university-of-new-york-suny.md)
+  * [State University of New York](our-company/case-studies/state-university-of-new-york.md)
   * [Generating immediate donation awareness for Hurricane Harvey Relief](our-company/case-studies/generating-immediate-donation-awareness-for-hurricane-harvey-relief.md)
 * [Our Products](our-company/our-products/README.md)
   * [Turnkey Programs](our-company/our-products/turnkey-programs/README.md)
