@@ -24,23 +24,23 @@ layout:
 
 # Core Services
 
-#### Programmatic Advertising
+## Programmatic Advertising
 
 We excel in programmatic buying, utilizing algorithms and data to purchase ad inventory, ensuring that our clients' ads are seen by the right audience at the right time.
 
-#### Audience Segmentation and Targeting
+## Audience Segmentation & Targeting
 
 Our advanced data analytics enable precise segmentation of audiences, allowing for targeted marketing efforts that are more likely to convert leads into customers.
 
-#### Geolocation Targeting
+## Geolocation Targeting
 
 By leveraging geolocation data, we help clients deliver contextually relevant messages to audiences based on their physical location, increasing the impact of their advertising spend.
 
-#### Social Conquesting
+## Social Conquesting
 
 We use sophisticated social media targeting strategies to engage with audiences who have shown interest in similar products or services, capturing market share from competitors.
 
-#### Multi-Channel Marketing Solutions
+## Multi-Channel Marketing Solutions
 
 Our platform integrates multiple marketing channels, providing a comprehensive suite of tools to reach customers wherever they are:
 
