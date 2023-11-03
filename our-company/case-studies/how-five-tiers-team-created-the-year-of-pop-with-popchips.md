@@ -19,16 +19,12 @@ layout:
 
 # How Five Tier’s Team Created the Year of Pop with Popchips
 
-#### Overview
+The saga of "The Year of Pop" with Popchips began with a series of odd encounters. Talent scouts, enigmatic brand consultants, and curious visitors all seemed inexplicably drawn to our office. We took these peculiar events in stride—after all, it's all part of the NYC charm.
 
-For a year prior to meeting with popchips, weird things kept happening.  Talent scouts would call us, we would take meetings with “brand consultants” who couldn’t tell us what brands they worked with, and we had people coming by to randomly see our offices.  Imagine the creepiness of someone answering the question _“Who are you here to see?”_ with _“It’s not about who I am here to see, it’s what I am here to see.”_  (But hey, it’s New York City, nothing phases us.)
+Then December rolled around, and the pieces fell into place. We were invited to compete on AMC's "The Pitch," a reality TV showdown where advertising agencies vie for a major brand's favor. It turned out, the mysterious visits had been preparing us for this moment.
 
-Fast forward to December when we were asked to participate in a TV show called “The Pitch” commissioned by the network AMC where two agencies battled it out in a duel for the ages to win the business of a major brand.  Turns out, all of that scouting was to vet us for the show.
+Within a whirlwind ten days, under the relentless gaze of cameras capturing our every move for an international audience, we crafted "The Year of Pop" campaign for Popchips—a campaign designed not just to go viral, but to sustain its momentum throughout the year, seeding the idea of "the greatest viral video ever."
 
-Over a ten day period we were under a microscope developing a “viral campaign that people would want to share.”  We built a comprehensive, sophisticated campaign that returned in spades by spreading shareability over the course of a year to create the “greatest viral video ever.”  We called it “The Year of Pop”, and we’re proud to say we won the account under the microscope of every move being recorded to air on international television.
+Our efforts culminated in a triumph. Not only did we win the Popchips account, but the campaign itself became a phenomenon, amassing millions of submissions and soaring visibility. We effectively closed the chapter on brands chasing the viral dragon since, by its nature, true viral content cannot be manufactured—it must be born of authenticity.
 
-#### Results
-
-The Year of Pop received millions of submissions and a high level of visibility.  We successfully ended the era where brands were asking for viral content to be developed, since viral content that’s intentionally viral is inherently an oxymoron.  During The Year of Pop sales of popchips doubled as the brand continued explosive growth both from a recognition and sales perspective in  a highly competitive category.
-
-_The best part?  The CEO of popchips, Keith Belling, gave us this awesome commercial: youtu.be/m7aBLaCs5dI_
+And the cherry on top? Popchips’ sales doubled during "The Year of Pop," propelling the brand to new heights in a fiercely competitive market. This period of remarkable growth was perfectly encapsulated by CEO Keith Belling's testament—an endorsement that was as genuine as our campaign: [youtu.be/m7aBLaCs5dI](https://chat.openai.com/c/youtu.be/m7aBLaCs5dI).
