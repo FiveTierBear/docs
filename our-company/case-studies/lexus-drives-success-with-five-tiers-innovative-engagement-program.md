@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/Build Your Brand. Grow Your Business. (1).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Lexus Drives Success with Five Tier’s Innovative Engagement Program
 
 In the competitive landscape of luxury automobiles, Lexus sought to elevate its customer engagement and streamline the journey from interest to acquisition. In 2016, they partnered with Five Tier to create an immersive test drive experience leveraging state-of-the-art technology.
