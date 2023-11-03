@@ -86,7 +86,7 @@
 
 ## Billboard Advertising
 
-* [Times Square Advertising Solutions](billboard-advertising/times-square-advertising-solutions/README.md)
+* [Times Square Advertising Solutions](billboard-advertising/times-square-advertising-solutions.md)
   * [Creative Specifications](billboard-advertising/times-square-advertising-solutions/creative-specifications.md)
 
 ## Weekly Marketing Assistance

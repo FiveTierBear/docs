@@ -90,3 +90,13 @@ Each digital asset must follow the detailed specifications for the intended disp
     * **Sizes**: Variable, dependent on the location and structure
     * **Max File Size**: 50MB
     * **File Types**: JPG, MP4
+
+**Submission Process**
+
+* Ensure compliance with the specified dimensions and file size limitations for each asset type.
+* Submit assets via the designated "Submit Asset" link for each product type.
+
+**Support and Resources**
+
+* Our Help & FAQs section is available for guidance.
+* For direct support, contact our team at (844) 282-4376.
