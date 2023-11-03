@@ -19,18 +19,10 @@ layout:
 
 # Lexus Drives Success with Five Tier’s Innovative Engagement Program
 
-In the competitive landscape of luxury automobiles, Lexus sought to elevate its customer engagement and streamline the journey from interest to acquisition. In 2016, they partnered with Five Tier to create an immersive test drive experience leveraging state-of-the-art technology.
+Lexus redefined the luxury car test drive experience in partnership with Five Tier, crafting an exclusive and emotionally engaging journey that transformed customers into brand advocates. Faced with the challenge of deepening customer relationships, Lexus and Five Tier collaborated to design an unforgettable, data-rich test drive adventure.
 
-**Challenge:** Lexus aimed to deepen their connection with loyal customers by offering an exclusive, memorable test drive experience. They wanted to not only excite their audience but also gather valuable data for remarketing and personalize their follow-up communications.
+Our solution was a personalized, technology-driven experience starting with a custom invitation and culminating in a shareable, personal commercial. By integrating innovative mobile applications and Live Audience Devices, we created a seamless test drive narrative that captured genuine customer reactions, merged with Lexus's promotional content for a compelling story participants were eager to share.
 
-**Solution:** Five Tier developed a comprehensive program that began with a personalized invitation sent to select Lexus owners. The invitation was a gateway to a unique test drive, facilitated through an exclusive mobile application. As registrants arrived at the dealership, the app transitioned to “record your test drive” mode, prompting drivers to place the device on their dashboard. The subsequent recording captured their reactions and emotions during the drive, creating an engaging narrative.
+The initiative turned Lexus owners into enthusiastic brand ambassadors, amplifying their loyalty through social sharing while equipping Lexus with valuable data for precision remarketing. The evolution of this program underscores Five Tier's commitment to scalable, cutting-edge solutions that keep our clients at the forefront of their industries.
 
-After completing the test drive, the app blended the recorded footage with Lexus’s commercial content, generating a custom commercial for each participant. This bespoke content was then emailed to participants and shared on their social media, encouraging wider distribution through personal networks.
-
-**Results:** This innovative approach resulted in test drives that were not just a routine procedure but a memorable, shareable experience. Participants became brand ambassadors, sharing their custom commercials online. Meanwhile, Lexus harnessed the power of remarketing; using data collected to target ads through Five Tier’s broadcast network, focusing on out-of-home media that aligned with the models customers showed interest in.
-
-For the 2019 iteration, Five Tier has refined this program, enhancing scalability and reducing the need for external hardware or custom-built applications. With the integration of Live Audience Devices and traditional web/mobile web pages, along with an expanded broadcast network, the experience has become more seamless and impactful.
-
-Lexus’s collaboration with Five Tier showcases the transformative potential of connected media in creating personalized customer experiences. It reflects our dedication to innovation, demonstrating how we can evolve and scale bespoke solutions for our clients, ensuring they stay ahead in a dynamic market.
-
-**About Five Tier:** At Five Tier, we build bridges between brands and their audiences using the latest in media and technology. Our connected media platform enables businesses to target, engage, and attribute success in a rapidly evolving digital landscape. Discover how we can help you grow your brand and business with high-value, low-cost media solutions.
+We harness the power of connected media to build meaningful connections between brands and their audiences, ensuring our clients thrive in the dynamic digital arena with our cost-effective, impactful media strategies.
