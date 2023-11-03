@@ -9,7 +9,7 @@
 * [Case Studies](our-company/case-studies/README.md)
   * [North Shore Long Island Jewish Health System](our-company/case-studies/north-shore-long-island-jewish-health-system.md)
   * [G/O Media - A Success!](our-company/case-studies/g-o-media-a-success.md)
-  * [Five Tier Pharmaceutical and Healthcare Experience](our-company/case-studies/five-tier-pharmaceutical-and-healthcare-experience.md)
+  * [Pharmaceutical and Healthcare Experience](our-company/case-studies/pharmaceutical-and-healthcare-experience.md)
   * [The Jarlsberg Tasting Room](our-company/case-studies/the-jarlsberg-tasting-room.md)
   * [The Children's Place](our-company/case-studies/the-childrens-place.md)
   * [DoSomething.org / VH1](our-company/case-studies/dosomething.org-vh1.md)
