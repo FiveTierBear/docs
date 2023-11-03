@@ -2,6 +2,23 @@
 description: >-
   We are proud to be recognized both by our clients and the press for our
   innovative approach to connected media.
+cover: >-
+  https://images.unsplash.com/photo-1543242594-c8bae8b9e708?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxwcmVzc3xlbnwwfHx8fDE2OTkwMjU0MTJ8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Testimonials & Press Coverage
