@@ -1,4 +1,5 @@
 ---
+description: Retail, Sales Generation, Branding
 cover: ../../.gitbook/assets/6520529d41d8a4d479122e4f_Untitled design (6)-p-800.png
 coverY: 0
 layout:
@@ -19,21 +20,10 @@ layout:
 
 # Jerry's Vodka
 
-File Under: Retail, Sales Generation, Branding
+Launching a new brand into the crowded spirits market is a formidable task, especially for an artisanal vodka brand from New Jersey. When the creators of JERRY's Vodka came to us with nothing more than a concept, we had the exciting challenge of turning their vision into a tangible, marketable reality.
 
-JERRY’s Vodka is a local New Jersey craft/artisanal vodka started in 2016. When the founders of JERRY’s Vodka first approached Five Tier as a very small client, the company was just an idea on a napkin. The challenge the company had was that they were a small brand that nobody had ever heard of before, and needed help with their launch.
+With a swift 24-hour turnaround, leveraging Five Tier's cutting-edge technology, we crafted a brand identity that clicked with consumers, developed a sleek website, and created compelling social media content that positioned JERRY's Vodka not just as a product, but as a lifestyle choice.
 
-Within 24 hours of the founders briefing the team on what they were looking to do, we built a brand that resonated with the target market, a website, and social media materials - all using Five Tier technology. Overnight, the company became an instant, buyable brand.
+Our strategy encompassed connected media, automated creative content, strategic influencer partnerships, and dynamic email and social media campaigns.
 
-**Programs Utilized:**
-
-* Connected Media
-* Automated Creative
-* Influencer Outreach
-* Email and Social Media Management
-
-### Results
-
-Three years later, JERRY’s Vodka has become a million dollar business that is sold in over 150 locations throughout the state of New Jersey. Five Tier continues to work with JERRY’s Vodka to build the trajectory of the company in the years to come.
-
-\
+The outcome? JERRY's Vodka skyrocketed from a mere idea to a million-dollar business in three years, now boasting presence in over 150 retail locations across New Jersey. Our journey with JERRY's continues as we steer its growth trajectory onwards and upwards.
