@@ -86,6 +86,7 @@
 * [How-To Guides](five-tier-connect/how-to-guides/README.md)
   * [Create An Account](five-tier-connect/how-to-guides/create-an-account.md)
   * [Create An Outreach Campaign](five-tier-connect/how-to-guides/create-an-outreach-campaign.md)
+  * [Add Users to Your Account](five-tier-connect/how-to-guides/add-users-to-your-account.md)
 
 ## Billboard Advertising
 
