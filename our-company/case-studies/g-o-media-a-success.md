@@ -1,24 +1,30 @@
+---
+description: >-
+  Media Strategy, Digital Performance, Engagement Metrics, Platform Efficiency,
+  Market Focus, Technology Utilization, Value Addition, Creative Execution, Lead
+  Generation, Adaptability and Responsiveness
+cover: ../../.gitbook/assets/Build Your Brand. Grow Your Business. (4).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # G/O Media - A Success!
 
-G/O Media raised awareness with agencies during the end-of-2019 and early-2020 media planning season.&#x20;
+G/O Media's campaign was a triumph in strategic timing and targeted messaging. During the pivotal media planning season spanning the end of 2019 and early 2020, we focused our efforts on the bustling New York and Chicago markets, specifically during peak commuting times to ensure the highest impact.
 
-The creative that emphasized G/O’s reach and influence using targeted placements in the key New York and Chicago markets focused on prime commuting hours to maximize efficiency.
+The campaign's effectiveness was immediately apparent, with the microsite garnering an average of over 100 direct visits daily, complemented by more than 20 text inquiries. The precision of Five Tier's platform allowed us to trace each visit and lead back to the exact moment and location of the ad's appearance. Additionally, the agility of our platform facilitated seamless and instant creative updates.
 
-Within the first few days of launch, direct visits to the program’s microsite was averaging 100+ per day with 20+ inquiries via text message.  Visits and leads were able to be attributed down to the time and location of the ad play.  Furthermore, when creative updates were required, through the Five Tier Connect platform changes were able to be made easily and instantly.
-
-77,000 Ad Plays, $13.75 CPM, 10.9MM Total Impressions, 5 Channels Integrated, 78% Added Value Delivered.
-
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+The numbers tell the story of our success: 77,000 ad plays at an efficient $13.75 CPM, a reach of 10.9 million impressions across 5 integrated channels, and an exceptional 78% in added value. This is the Five Tier impact—efficiency, precision, and results.
