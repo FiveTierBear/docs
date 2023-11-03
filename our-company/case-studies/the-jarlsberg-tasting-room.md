@@ -22,7 +22,7 @@ layout:
 
 # The Jarlsberg Tasting Room
 
-The Jarlsberg Tasting Room campaign was a revolutionary blend of the physical and digital realms, designed to create a seamless experience that transitioned smoothly from online to offline engagement. In collaboration with Digital Surgeons, we at Five Tier brought to life a concept that was as innovative as it was ambitious—a "living billboard" in Times Square that not only advertised but also interacted in real-time with the tasting room.
+The Jarlsberg Tasting Room campaign was a revolutionary blend of the physical and digital realms, designed to create a seamless experience that transitioned smoothly from online to offline engagement. In collaboration with Digital Surgeons, we brought to life a concept that was as innovative as it was ambitious—a "living billboard" in Times Square that not only advertised but also interacted in real-time with the tasting room.
 
 To stir curiosity and facilitate immediate action, we disseminated information about the tasting room through an integrated network of screens located in supermarkets, a critical touchpoint for spur-of-the-moment decisions. The campaign was amplified through event listings, social media buzz, and the energetic presence of street teams.
 

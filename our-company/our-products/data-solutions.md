@@ -2,7 +2,7 @@
 
 ### Overview
 
-At Five Tier, we empower your campaigns with precision and intelligence by providing access to over 32,000+ datasets. These datasets are pivotal for crafting a highly targeted audience using geolocation, demographic, psychographic, and behavioral information, not only to tailor your audience but also to track post-exposure activities.
+We empower your campaigns with precision and intelligence by providing access to over 32,000+ datasets. These datasets are pivotal for crafting a highly targeted audience using geolocation, demographic, psychographic, and behavioral information, not only to tailor your audience but also to track post-exposure activities.
 
 ### Comprehensive Data Sets
 

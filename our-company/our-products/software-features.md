@@ -2,7 +2,7 @@
 
 ### Comprehensive Business Solutions
 
-At Five Tier, we have crafted a platform that does more than just advertise and analyze; it equips you with a comprehensive suite of tools to start, manage, and expand your business with efficiency and ease.
+We have crafted a platform that does more than just advertise and analyze; it equips you with a comprehensive suite of tools to start, manage, and expand your business with efficiency and ease.
 
 ### Feature Highlights
 

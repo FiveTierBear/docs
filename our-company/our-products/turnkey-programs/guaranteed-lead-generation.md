@@ -2,7 +2,7 @@
 
 ### Overview
 
-At Five Tier, we streamline the process of lead generation, allowing you to focus on what you do best — running your business and perfecting your products or services. Our guaranteed lead generation services are divided into two primary categories: Consumer Leads and Business-to-Business Leads.
+We streamline the process of lead generation, allowing you to focus on what you do best — running your business and perfecting your products or services. Our guaranteed lead generation services are divided into two primary categories: Consumer Leads and Business-to-Business Leads.
 
 ### Consumer Leads
 

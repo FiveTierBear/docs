@@ -2,7 +2,7 @@
 
 ### Overview
 
-At Five Tier, we offer robust distribution networks that ensure your message reaches your audience through the most effective channels. Our integrated approach includes email, text messaging (SMS), social media, and direct mail, allowing you to nurture leads and enhance conversions.
+We offer robust distribution networks that ensure your message reaches your audience through the most effective channels. Our integrated approach includes email, text messaging (SMS), social media, and direct mail, allowing you to nurture leads and enhance conversions.
 
 ### Our Partnerships
 

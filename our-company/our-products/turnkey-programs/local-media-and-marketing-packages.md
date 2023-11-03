@@ -2,7 +2,7 @@
 
 ### Overview
 
-Five Tier provides comprehensive local media and marketing packages tailored to help businesses effectively reach and engage their target audiences within specific geographic locales. Our packages offer a mix of traditional and digital media to ensure a robust presence across multiple channels.
+We provide comprehensive local media and marketing packages tailored to help businesses effectively reach and engage their target audiences within specific geographic locales. Our packages offer a mix of traditional and digital media to ensure a robust presence across multiple channels.
 
 ### Media Channels Included
 

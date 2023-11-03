@@ -2,7 +2,7 @@
 
 ### Overview
 
-At Five Tier, we present an exceptional opportunity for businesses to showcase their brand amidst the hustle and bustle of iconic locations. Our turnkey promotional packages are designed to place your company alongside the world's top brands, creating an unforgettable presence in high-traffic areas such as Times Square and Las Vegas.
+We present an exceptional opportunity for businesses to showcase their brand amidst the hustle and bustle of iconic locations. Our turnkey promotional packages are designed to place your company alongside the world's top brands, creating an unforgettable presence in high-traffic areas such as Times Square and Las Vegas.
 
 ### How It Works
 

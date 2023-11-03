@@ -2,7 +2,7 @@
 
 ### Overview
 
-Five Tier opens the door to expansive media opportunities, providing digital out of home, connected television (CTV), streaming audio, digital display, and mobile advertising solutions to escalate your brand's reach globally. With access to billions of placements internationally, we ensure that your brand can feature anywhere from digital out of home screens to the most popular TV shows, audio platforms, and websites worldwide.
+We open the door to expansive media opportunities, providing digital out of home, connected television (CTV), streaming audio, digital display, and mobile advertising solutions to escalate your brand's reach globally. With access to billions of placements internationally, we ensure that your brand can feature anywhere from digital out of home screens to the most popular TV shows, audio platforms, and websites worldwide.
 
 ### Media Channels and Partnerships
 
