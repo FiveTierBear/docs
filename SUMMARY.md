@@ -83,6 +83,8 @@
     * [Brand Strategy](five-tier-connect/the-platform/ai-driven-support-services/brand-strategy.md)
     * [Business Strategy](five-tier-connect/the-platform/ai-driven-support-services/business-strategy.md)
 * [FAQs](five-tier-connect/faqs.md)
+* [How-To Guides](five-tier-connect/how-to-guides/README.md)
+  * [Create An Outreach Campaign](five-tier-connect/how-to-guides/create-an-outreach-campaign.md)
 
 ## Billboard Advertising
 
