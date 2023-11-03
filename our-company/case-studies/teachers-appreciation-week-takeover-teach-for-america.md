@@ -1,4 +1,5 @@
 ---
+description: Giving Back, Connected Media, Non-Profit, Home Advertising, Connected TV
 cover: ../../.gitbook/assets/651efaa8da4d313d9396731b_Untitled design-p-800.png
 coverY: 0
 layout:
@@ -19,10 +20,9 @@ layout:
 
 # Teacher’s Appreciation Week Takeover Teach For America
 
-**Overview**
+\
+During Teacher's Appreciation Week, Teach For America executed an unparalleled programmatic media blitz with Five Tier's expertise. From May 3-7, 2021, the campaign became a national event, leveraging out of home advertising, connected TV, and a robust PR strategy—all orchestrated via our Connected Media platform, Five Tier Connect. Teach For America amplified this with their own social media and email efforts.
 
-The Teach For America Teacher’s Appreciation Week Takeover (May 3 to May 7, 2021) was the world’s largest integrated programmatic media campaign encompassing out of home, connected television, and a public relations program all booked through Five Tier’s Connected Media platform, Five Tier Connect. Additional channels such as social media and email marketing were activated by Teach For America, directly.
+This ambitious campaign spanned six days, lighting up billboards and TV screens nationwide, including a stunning takeover of Times Square's digital canvas with two major billboard displays and eight screens in total. It touched 51 markets across six regions, with 205 highway billboards capturing over 630,000 impressions and targeted connected TV ads garnering an additional 35,000 impressions. The Times Square showcase alone amassed over 1 million impressions in just three days.
 
-The program ran from Monday, May 3 to Saturday, May 8, 2021 accessing billboards and TV sets across the country including two iconic billboard lockups and eight total screens at the Crossroads of the World – Times Square. 51 total markets were reached in six regions utilizing 205 targeted highway billboards generating 633,908 impressions and connected tv plays generating 35,103 targeted impressions. The Times Square placements generated 1,000,741 impressions over three, targeted days. Per PR Newswire’s measurement, the corresponding press release had the reach to generate more than 91 million additional impressions.
-
-Creative was updated across all channels throughout the week encompassing approximately 24 creative templates, in 15 different sizes, resulting in approximately 360 different pieces of creative trafficked.
+Complementing this reach, the PR Newswire press release potentially impacted an astonishing 91 million more impressions. The creative dynamism was unmatched, with roughly 24 unique creative templates in 15 sizes, resulting in 360 distinct creative executions across multiple platforms. The Teach For America Teacher’s Appreciation Week Takeover wasn't just a campaign; it was a celebration broadcasted on an epic scale.
