@@ -1,8 +1,52 @@
 # Table of contents
 
-## Our Company
+*
+*
+*
 
-* [Overview](README.md)
+## 💻 The Platform
+
+* [Quick Start](README.md)
+  * [Capabilities](the-platform/quick-start/capabilities/README.md)
+    * [Reporting](the-platform/quick-start/capabilities/reporting.md)
+    * [Foot Traffic Attribution](the-platform/quick-start/capabilities/foot-traffic-attribution.md)
+    * [Lead Generation](the-platform/quick-start/capabilities/lead-generation.md)
+    * [Sales Attribution](the-platform/quick-start/capabilities/sales-attribution.md)
+    * [Customer Relationship Management](the-platform/quick-start/capabilities/customer-relationship-management.md)
+    * [Direct Mail Distribution](the-platform/quick-start/capabilities/direct-mail-distribution.md)
+    * [Text Message Marketing](the-platform/quick-start/capabilities/text-message-marketing.md)
+    * [Email Marketing](the-platform/quick-start/capabilities/email-marketing.md)
+    * [Digital Display Advertising & SEM](the-platform/quick-start/capabilities/digital-display-advertising-and-sem.md)
+    * [Streaming Audio Advertising](the-platform/quick-start/capabilities/streaming-audio-advertising.md)
+    * [Connected TV Advertising](the-platform/quick-start/capabilities/connected-tv-advertising.md)
+    * [Out of Home Advertising](the-platform/quick-start/capabilities/out-of-home-advertising.md)
+    * [Social Conquesting](the-platform/quick-start/capabilities/social-conquesting.md)
+    * [Geolocation Targeting](the-platform/quick-start/capabilities/geolocation-targeting.md)
+    * [Audience Targeting](the-platform/quick-start/capabilities/audience-targeting.md)
+    * [Market Segmentation](the-platform/quick-start/capabilities/market-segmentation.md)
+  * [AI-Driven Support Services](the-platform/quick-start/ai-driven-support-services/README.md)
+    * [Content Development](the-platform/quick-start/ai-driven-support-services/content-development.md)
+    * [Social Media Page Creation & SMM](the-platform/quick-start/ai-driven-support-services/social-media-page-creation-and-smm.md)
+    * [Website Development](the-platform/quick-start/ai-driven-support-services/website-development.md)
+    * [Brand Design](the-platform/quick-start/ai-driven-support-services/brand-design.md)
+    * [Media Strategy](the-platform/quick-start/ai-driven-support-services/media-strategy.md)
+    * [Product Strategy](the-platform/quick-start/ai-driven-support-services/product-strategy.md)
+    * [Brand Strategy](the-platform/quick-start/ai-driven-support-services/brand-strategy.md)
+    * [Business Strategy](the-platform/quick-start/ai-driven-support-services/business-strategy.md)
+  * [How-To Guides](the-platform/quick-start/how-to-guides/README.md)
+    * [Create An Account](the-platform/quick-start/how-to-guides/create-an-account.md)
+    * [Create An Outreach Campaign](the-platform/quick-start/how-to-guides/create-an-outreach-campaign.md)
+    * [Add Users to Your Account](the-platform/quick-start/how-to-guides/add-users-to-your-account.md)
+* [FAQs](the-platform/faqs.md)
+
+## Billboard Advertising
+
+* [Times Square](billboard-advertising/times-square/README.md)
+  * [Creative Specifications](billboard-advertising/times-square/creative-specifications.md)
+
+## 🏢 Our Company
+
+* [Overview](<README (1).md>)
   * [Five Tier Advantages](our-company/five-tier-advantages.md)
   * [Core Services](our-company/core-services.md)
   * [Testimonials & Press Coverage](our-company/testimonials-and-press-coverage.md)
@@ -53,47 +97,6 @@
   * [What is time and day part targeting in out of home advertising?](our-company/blog/what-is-time-and-day-part-targeting-in-out-of-home-advertising.md)
   * [How to Automate Lead Generation with Five Tier Connect](our-company/blog/how-to-automate-lead-generation-with-five-tier-connect.md)
 
-## Five Tier Connect
-
-* [Quick Start](five-tier-connect/quick-start.md)
-* [The Platform](five-tier-connect/the-platform/README.md)
-  * [Capabilities](five-tier-connect/the-platform/capabilities/README.md)
-    * [Reporting](five-tier-connect/the-platform/capabilities/reporting.md)
-    * [Foot Traffic Attribution](five-tier-connect/the-platform/capabilities/foot-traffic-attribution.md)
-    * [Lead Generation](five-tier-connect/the-platform/capabilities/lead-generation.md)
-    * [Sales Attribution](five-tier-connect/the-platform/capabilities/sales-attribution.md)
-    * [Customer Relationship Management](five-tier-connect/the-platform/capabilities/customer-relationship-management.md)
-    * [Direct Mail Distribution](five-tier-connect/the-platform/capabilities/direct-mail-distribution.md)
-    * [Text Message Marketing](five-tier-connect/the-platform/capabilities/text-message-marketing.md)
-    * [Email Marketing](five-tier-connect/the-platform/capabilities/email-marketing.md)
-    * [Digital Display Advertising & SEM](five-tier-connect/the-platform/capabilities/digital-display-advertising-and-sem.md)
-    * [Streaming Audio Advertising](five-tier-connect/the-platform/capabilities/streaming-audio-advertising.md)
-    * [Connected TV Advertising](five-tier-connect/the-platform/capabilities/connected-tv-advertising.md)
-    * [Out of Home Advertising](five-tier-connect/the-platform/capabilities/out-of-home-advertising.md)
-    * [Social Conquesting](five-tier-connect/the-platform/capabilities/social-conquesting.md)
-    * [Geolocation Targeting](five-tier-connect/the-platform/capabilities/geolocation-targeting.md)
-    * [Audience Targeting](five-tier-connect/the-platform/capabilities/audience-targeting.md)
-    * [Market Segmentation](five-tier-connect/the-platform/capabilities/market-segmentation.md)
-  * [AI-Driven Support Services](five-tier-connect/the-platform/ai-driven-support-services/README.md)
-    * [Content Development](five-tier-connect/the-platform/ai-driven-support-services/content-development.md)
-    * [Social Media Page Creation & SMM](five-tier-connect/the-platform/ai-driven-support-services/social-media-page-creation-and-smm.md)
-    * [Website Development](five-tier-connect/the-platform/ai-driven-support-services/website-development.md)
-    * [Brand Design](five-tier-connect/the-platform/ai-driven-support-services/brand-design.md)
-    * [Media Strategy](five-tier-connect/the-platform/ai-driven-support-services/media-strategy.md)
-    * [Product Strategy](five-tier-connect/the-platform/ai-driven-support-services/product-strategy.md)
-    * [Brand Strategy](five-tier-connect/the-platform/ai-driven-support-services/brand-strategy.md)
-    * [Business Strategy](five-tier-connect/the-platform/ai-driven-support-services/business-strategy.md)
-* [How-To Guides](five-tier-connect/how-to-guides/README.md)
-  * [Create An Account](five-tier-connect/how-to-guides/create-an-account.md)
-  * [Create An Outreach Campaign](five-tier-connect/how-to-guides/create-an-outreach-campaign.md)
-  * [Add Users to Your Account](five-tier-connect/how-to-guides/add-users-to-your-account.md)
-* [FAQs](five-tier-connect/faqs.md)
-
-## Billboard Advertising
-
-* [Times Square Advertising Solutions](billboard-advertising/times-square-advertising-solutions.md)
-  * [Creative Specifications](billboard-advertising/times-square-advertising-solutions/creative-specifications.md)
-
 ## Weekly Marketing Assistance
 
 * [Overview](weekly-marketing-assistance/overview.md)
@@ -101,6 +104,7 @@
 * [Billing](weekly-marketing-assistance/billing.md)
 * [FAQs](weekly-marketing-assistance/faqs.md)
 
-***
+## Resources
 
-* [📞 Contact Information](contact-information.md)
+* [📺 Training Video Library](resources/training-video-library.md)
+* [📞 Contact Information](resources/contact-information.md)
