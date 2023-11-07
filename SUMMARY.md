@@ -96,7 +96,7 @@
 ## Weekly Marketing Assistance
 
 * [Overview](weekly-marketing-assistance/overview.md)
-* [Onboarding](weekly-marketing-assistance/onboarding.md)
+* [Quick Start](weekly-marketing-assistance/quick-start.md)
 * [Billing](weekly-marketing-assistance/billing.md)
 * [FAQs](weekly-marketing-assistance/faqs.md)
 
