@@ -1,12 +1,6 @@
 ---
 description: Establishing Access for Comprehensive Support
-cover: >-
-  https://images.unsplash.com/photo-1644132246573-bc75ce0a2946?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxvbmJvYXJkaW5nfGVufDB8fHx8MTY5OTAyNjA0NHww&ixlib=rb-4.0.3&q=85
-coverY: 84
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -19,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Onboarding
+# Quick Start
 
 As you embark on your journey with Five Tier's $99 Marketing Assistance Package, a smooth onboarding process is crucial to unlock the full potential of your marketing campaigns. To ensure seamless integration and efficient management of your marketing activities, we require access to specific tools and platforms. This access allows us to provide you with data-driven insights, strategic advice, and hands-on support.
 

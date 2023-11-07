@@ -55,6 +55,7 @@
 
 ## Five Tier Connect
 
+* [Quick Start](five-tier-connect/quick-start.md)
 * [The Platform](five-tier-connect/the-platform/README.md)
   * [Capabilities](five-tier-connect/the-platform/capabilities/README.md)
     * [Reporting](five-tier-connect/the-platform/capabilities/reporting.md)
@@ -82,11 +83,11 @@
     * [Product Strategy](five-tier-connect/the-platform/ai-driven-support-services/product-strategy.md)
     * [Brand Strategy](five-tier-connect/the-platform/ai-driven-support-services/brand-strategy.md)
     * [Business Strategy](five-tier-connect/the-platform/ai-driven-support-services/business-strategy.md)
-* [FAQs](five-tier-connect/faqs.md)
 * [How-To Guides](five-tier-connect/how-to-guides/README.md)
   * [Create An Account](five-tier-connect/how-to-guides/create-an-account.md)
   * [Create An Outreach Campaign](five-tier-connect/how-to-guides/create-an-outreach-campaign.md)
   * [Add Users to Your Account](five-tier-connect/how-to-guides/add-users-to-your-account.md)
+* [FAQs](five-tier-connect/faqs.md)
 
 ## Billboard Advertising
 
@@ -96,7 +97,7 @@
 ## Weekly Marketing Assistance
 
 * [Overview](weekly-marketing-assistance/overview.md)
-* [Quick Start](weekly-marketing-assistance/quick-start.md)
+* [Quick Start](weekly-marketing-assistance/onboarding.md)
 * [Billing](weekly-marketing-assistance/billing.md)
 * [FAQs](weekly-marketing-assistance/faqs.md)
 
