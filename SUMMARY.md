@@ -1,9 +1,6 @@
 # Table of contents
 
 * [👋 Welcome - Getting Started](README.md)
-*
-*
-*
 
 ## Products
 
