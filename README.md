@@ -34,7 +34,7 @@ We pride ourselves on being more than just a platform; we are a partner in your 
 
 Our services are engineered to target specific audiences with precision, engage customers through direct and impactful communication, and attribute measurable success to every tier of your marketing funnel. We go beyond the traditional scattergun advertising approach. By leveraging advanced data analytics, we optimize your advertising spend, ensuring your ads reach those with a genuine interest in your product or service. Further, our proactive direct marketing techniques are designed to engage individuals who exhibit interest, helping to convert potential leads into loyal customers.
 
-At Five Tier, we guarantee not just service, but results. Our lead generation promise is backed by a commitment to accountability in every campaign, attributing sales, foot traffic, and interest to each step of your advertising efforts.
+We guarantee not just service, but results. Our lead generation promise is backed by a commitment to accountability in every campaign, attributing sales, foot traffic, and interest to each step of your advertising efforts.
 
 Embark on a journey of transformation with Five Tier, where we not only promise to build your brand and grow your business but also redefine the essence of connected media. Get started today and experience the power of advertising with precision, at a value that is unmatched in the industry.
 
