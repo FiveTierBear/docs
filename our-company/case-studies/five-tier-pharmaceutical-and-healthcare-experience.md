@@ -3,7 +3,7 @@ description: >-
   Pharmaceutical Marketing, Healthcare Strategy, Target Identification, Creative
   Customization, Success Attribution, Physician Engagement, Patient Education,
   Awareness Campaigns, Treatment Advocacy, Mar
-cover: ../../../.gitbook/assets/Build Your Brand. Grow Your Business. (5).png
+cover: ../../.gitbook/assets/Build Your Brand. Grow Your Business. (5).png
 coverY: 0
 layout:
   cover:

@@ -1,8 +1,6 @@
 ---
 description: Retail, Sales Generation, Branding
-cover: >-
-  ../../../.gitbook/assets/6520529d41d8a4d479122e4f_Untitled design
-  (6)-p-800.png
+cover: ../../.gitbook/assets/6520529d41d8a4d479122e4f_Untitled design (6)-p-800.png
 coverY: 0
 layout:
   cover:

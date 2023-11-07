@@ -2,7 +2,7 @@
 description: >-
   Bringing a campaign to life through an immersive experience that  connects
   offline, online, experiential, digital, mobile, social, and sales.
-cover: ../../../.gitbook/assets/Build Your Brand. Grow Your Business. (6).png
+cover: ../../.gitbook/assets/Build Your Brand. Grow Your Business. (6).png
 coverY: 0
 layout:
   cover:

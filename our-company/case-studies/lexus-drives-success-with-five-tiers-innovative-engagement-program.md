@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/Build Your Brand. Grow Your Business. (1).png
+cover: ../../.gitbook/assets/Build Your Brand. Grow Your Business. (1).png
 coverY: 0
 layout:
   cover:

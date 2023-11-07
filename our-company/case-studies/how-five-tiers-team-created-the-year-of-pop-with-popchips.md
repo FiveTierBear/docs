@@ -1,7 +1,5 @@
 ---
-cover: >-
-  ../../../.gitbook/assets/651efca97c9425b854f00463_Untitled design
-  (1)-p-800.png
+cover: ../../.gitbook/assets/651efca97c9425b854f00463_Untitled design (1)-p-800.png
 coverY: 0
 layout:
   cover:
