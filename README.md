@@ -4,7 +4,7 @@ description: This portal your resource guide to all of our products and services
 
 # 👋 Welcome - Getting Started
 
-Directory
+## Resource Directory
 
 <details>
 
