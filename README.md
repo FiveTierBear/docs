@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Weekly Marketing Assistance
+# 🤝 Weekly Assistance
 
 {% hint style="info" %}
 We are excited to introduce our integrated marketing support package, tailored specifically for small and medium-sized businesses seeking to amplify their marketing efforts without overstretching their budgets. This $99 USD per week service is a testament to our commitment to providing accessible, high-quality marketing support that can scale with your business needs.
