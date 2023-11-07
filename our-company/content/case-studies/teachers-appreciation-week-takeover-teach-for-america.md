@@ -1,6 +1,6 @@
 ---
 description: Giving Back, Connected Media, Non-Profit, Home Advertising, Connected TV
-cover: ../../.gitbook/assets/651efaa8da4d313d9396731b_Untitled design-p-800.png
+cover: ../../../.gitbook/assets/651efaa8da4d313d9396731b_Untitled design-p-800.png
 coverY: 0
 layout:
   cover:

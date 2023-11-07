@@ -1,6 +1,6 @@
 ---
 description: Healthcare, Engagement, Retention, Brand Building
-cover: ../../.gitbook/assets/Build Your Brand. Grow Your Business. (3).png
+cover: ../../../.gitbook/assets/Build Your Brand. Grow Your Business. (3).png
 coverY: 0
 layout:
   cover:

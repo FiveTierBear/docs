@@ -4,7 +4,7 @@ description: >-
   advertising packages.
 ---
 
-# Times Square Advertising Solutions
+# Times Square
 
 ## Overview
 

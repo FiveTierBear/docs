@@ -1,6 +1,8 @@
 ---
 description: Retail, Sales Generation, Advocacy
-cover: ../../.gitbook/assets/651efe12835f453a270017a2_Untitled design (2)-p-800.png
+cover: >-
+  ../../../.gitbook/assets/651efe12835f453a270017a2_Untitled design
+  (2)-p-800.png
 coverY: 0
 layout:
   cover:

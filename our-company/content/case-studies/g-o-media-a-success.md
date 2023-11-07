@@ -3,7 +3,7 @@ description: >-
   Media Strategy, Digital Performance, Engagement Metrics, Platform Efficiency,
   Market Focus, Technology Utilization, Value Addition, Creative Execution, Lead
   Generation, Adaptability and Responsiveness
-cover: ../../.gitbook/assets/Build Your Brand. Grow Your Business. (4).png
+cover: ../../../.gitbook/assets/Build Your Brand. Grow Your Business. (4).png
 coverY: 0
 layout:
   cover:
