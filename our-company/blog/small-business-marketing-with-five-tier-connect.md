@@ -1,7 +1,5 @@
 # Small Business Marketing with Five Tier Connect
 
-Introduction
-
 Marketing is an essential element of any small business, regardless of size or industry. In the digital age, it has become increasingly important for ambitious entrepreneurs to keep up with the latest trends in order to best reach and engage their target audience in an effective and cost-efficient way.
 
 Luckily, with the development of cutting-edge solutions such as Five Tier Connect, small businesses have access to dynamic marketing solutions that level the playing field in competing with larger, more established enterprises. Five Tier Connect’s suite of marketing solutions is an accessible, full-service platform that empowers small business owners to customize their marketing efforts in a way that maximizes their return on investment. This guide offers a comprehensive overview of the features and functions of Five Tier Connect and how they can be leveraged to drive small business success.
