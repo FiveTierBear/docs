@@ -24,7 +24,7 @@ description: This portal your resource guide to all of our products and services
 
 <summary>Resources</summary>
 
-[Training Video Library](resources/training-video-library/)
+[Training Video Library](resources/training-video-library.md)
 
 [Case Studies](resources/case-studies/)
 
