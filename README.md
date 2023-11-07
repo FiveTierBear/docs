@@ -22,8 +22,6 @@ layout:
 
 # Overview
 
-***
-
 {% hint style="info" %}
 We understand that brand building and business growth are not just goals—they're the cornerstones of success in the modern marketplace. Our commitment to our institutional clients is embodied in our ability to streamline and enhance their advertising efforts across the most influential mediums.
 {% endhint %}

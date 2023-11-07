@@ -1,8 +1,4 @@
 ---
-description: >-
-  We specialize in programmatic advertising, audience segmentation, geolocation
-  targeting, social conquesting, multi-channel marketing solutions, CRM
-  management, AI-driven strategy, and so much more!
 cover: >-
   https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8bWFya2V0aW5nfGVufDB8fHx8MTY5OTAyNTI4N3ww&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -23,6 +19,10 @@ layout:
 ---
 
 # Core Services
+
+{% hint style="info" %}
+We specialize in programmatic advertising, audience segmentation, geolocation targeting, social conquesting, multi-channel marketing solutions, CRM management, AI-driven strategy, and so much more!
+{% endhint %}
 
 ## Programmatic Advertising
 
