@@ -114,3 +114,4 @@
   * [Five Tier Advantages](our-company/five-tier-advantages.md)
   * [Core Services](our-company/core-services.md)
   * [Testimonials & Press Coverage](our-company/testimonials-and-press-coverage.md)
+* [Team](our-company/team.md)
