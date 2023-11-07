@@ -1,12 +1,13 @@
 # Table of contents
 
+* [👋 Welcome - Getting Started](README.md)
 *
 *
 *
 
 ## Products
 
-* [🤝 Weekly Assistance](README.md)
+* [🤝 Weekly Assistance](<README (2).md>)
   * [Quick Start](products/weekly-assistance/quick-start.md)
   * [Billing](weekly-marketing-assistance/billing.md)
   * [FAQs](weekly-marketing-assistance/faqs.md)
