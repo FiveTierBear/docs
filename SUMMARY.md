@@ -55,7 +55,19 @@
 
 ## Resources
 
-* [📺 Training Video Library](resources/training-video-library.md)
+* [📺 Training Video Library](resources/training-video-library/README.md)
+  * [Lead Generation Overview](resources/training-video-library/lead-generation-overview.md)
+  * [How to use Insta Outreach](resources/training-video-library/how-to-use-insta-outreach.md)
+  * [Accessing View Only Reporting Links](resources/training-video-library/accessing-view-only-reporting-links.md)
+  * [CRM Contact Upload](resources/training-video-library/crm-contact-upload.md)
+  * [Creating a Geofence of Locations](resources/training-video-library/creating-a-geofence-of-locations.md)
+  * [How to create a geofence audience for reach or attribution and use in media buy](resources/training-video-library/how-to-create-a-geofence-audience-for-reach-or-attribution-and-use-in-media-buy.md)
+  * [How to access your Five Tier web tracking pixel](resources/training-video-library/how-to-access-your-five-tier-web-tracking-pixel.md)
+  * [Reporting](resources/training-video-library/reporting.md)
+  * [How to find closest competitors on Google](resources/training-video-library/how-to-find-closest-competitors-on-google.md)
+  * [Build a Media Plan](resources/training-video-library/build-a-media-plan.md)
+  * [Build an Audience](resources/training-video-library/build-an-audience.md)
+  * [Creating an Account](resources/training-video-library/creating-an-account.md)
 * [📞 Contact Information](contact-information.md)
 * [📃 Case Studies](resources/case-studies/README.md)
   * [Lexus Drives Success with Five Tier’s Innovative Engagement Program](resources/case-studies/lexus-drives-success-with-five-tiers-innovative-engagement-program.md)
