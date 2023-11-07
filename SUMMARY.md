@@ -69,7 +69,6 @@
   * [How to create a geofence audience for reach or attribution and use in media buy](resources/training-video-library/how-to-create-a-geofence-audience-for-reach-or-attribution-and-use-in-media-buy.md)
   * [How to access your web tracking pixel](resources/training-video-library/how-to-access-your-web-tracking-pixel.md)
   * [How to find closest competitors on Google](resources/training-video-library/how-to-find-closest-competitors-on-google.md)
-* [📞 Contact Information](contact-information.md)
 * [📃 Case Studies](resources/case-studies/README.md)
   * [Lexus Drives Success with Five Tier’s Innovative Engagement Program](resources/case-studies/lexus-drives-success-with-five-tiers-innovative-engagement-program.md)
   * [How Five Tier’s Team Created the Year of Pop with Popchips](resources/case-studies/how-five-tiers-team-created-the-year-of-pop-with-popchips.md)
@@ -108,10 +107,11 @@
   * [What is time and day part targeting in out of home advertising?](resources/blog/what-is-time-and-day-part-targeting-in-out-of-home-advertising.md)
   * [How to Automate Lead Generation with Five Tier Connect](resources/blog/how-to-automate-lead-generation-with-five-tier-connect.md)
 
-## 🏢 Our Company
+## Our Company
 
-* [Overview](<README (1).md>)
+* [🏢 Overview](<README (1).md>)
   * [Five Tier Advantages](our-company/five-tier-advantages.md)
   * [Core Services](our-company/core-services.md)
   * [Testimonials & Press Coverage](our-company/testimonials-and-press-coverage.md)
-* [Team](our-company/team.md)
+* [👩🚀 Team](our-company/team.md)
+* [📞 Contact Information](our-company/contact-information.md)

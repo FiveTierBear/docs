@@ -30,7 +30,7 @@ description: This portal your resource guide to all of our products and services
 
 [Blog](resources/blog/)
 
-[Contact Information](contact-information.md)
+[Contact Information](our-company/contact-information.md)
 
 </details>
 

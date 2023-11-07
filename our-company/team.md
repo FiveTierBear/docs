@@ -1,4 +1,4 @@
-# Team
+# 👩🚀 Team
 
 <table><thead><tr><th>Name</th><th width="276.3333333333333">Title</th><th>LinkedIn</th></tr></thead><tbody><tr><td>Frank O'Brien</td><td>Founder &#x26; CEO</td><td><a href="https://www.linkedin.com/in/frankobrien">https://www.linkedin.com/in/frankobrien</a></td></tr><tr><td>Memory Hawkins</td><td>VP of Client Communications</td><td><a href="https://www.linkedin.com/in/memoryharkins/">https://www.linkedin.com/in/memoryharkins/</a></td></tr><tr><td>Matthew Eck</td><td>VP of Sales</td><td><a href="https://www.linkedin.com/in/matthewecknyc/">https://www.linkedin.com/in/matthewecknyc/</a></td></tr><tr><td>Robben Gold</td><td>Director of Communications</td><td><a href="https://www.linkedin.com/in/robbengold/">https://www.linkedin.com/in/robbengold/</a></td></tr><tr><td>Bear Matthews</td><td>Public Relations</td><td><a href="https://www.linkedin.com/in/bearmatthews/">https://www.linkedin.com/in/bearmatthews/</a></td></tr><tr><td>Jack Bunting</td><td>Social Media Specialist</td><td><a href="https://www.linkedin.com/in/jack-bunting-034327220/">https://www.linkedin.com/in/jack-bunting-034327220/</a></td></tr></tbody></table>
 
