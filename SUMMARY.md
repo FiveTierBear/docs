@@ -4,13 +4,6 @@
 
 ## Products
 
-* [🤝 Weekly Assistance](<README (2).md>)
-  * [Quick Start](products/weekly-assistance/quick-start.md)
-  * [Billing](weekly-marketing-assistance/billing.md)
-  * [FAQs](weekly-marketing-assistance/faqs.md)
-* [📣 Billboard Advertising](products/billboard-advertising/README.md)
-  * [Times Square](billboard-advertising/times-square-advertising-solutions.md)
-    * [Creative Specifications](billboard-advertising/times-square-advertising-solutions/creative-specifications.md)
 * [💻 Five Tier Connect](products/five-tier-connect/README.md)
   * [Quick Start](products/five-tier-connect/quick-start/README.md)
     * [Capabilities](five-tier-connect/the-platform/capabilities/README.md)
@@ -48,10 +41,17 @@
   * [Distribution Networks](products/five-tier-connect/distribution-networks.md)
   * [Software Features](products/five-tier-connect/software-features.md)
   * [Media Opportunities](products/five-tier-connect/media-opportunities.md)
+* [📣 Billboard Advertising](products/billboard-advertising/README.md)
+  * [Times Square](billboard-advertising/times-square-advertising-solutions.md)
+    * [Creative Specifications](billboard-advertising/times-square-advertising-solutions/creative-specifications.md)
 * [🗝 Turnkey Programs](products/turnkey-programs/README.md)
   * [Spectacular Promotions](products/turnkey-programs/spectacular-promotions.md)
   * [Local Media & Marketing Packages](products/turnkey-programs/local-media-and-marketing-packages.md)
   * [Guaranteed Lead Generation](products/turnkey-programs/guaranteed-lead-generation.md)
+* [🤝 Weekly Assistance](<README (2).md>)
+  * [Quick Start](products/weekly-assistance/quick-start.md)
+  * [Billing](weekly-marketing-assistance/billing.md)
+  * [FAQs](weekly-marketing-assistance/faqs.md)
 
 ## Resources
 
