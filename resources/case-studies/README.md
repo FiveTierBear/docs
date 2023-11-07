@@ -5,5 +5,5 @@ description: >-
   objectives. These real-world examples demonstrate
 ---
 
-# Case Studies
+# 📃 Case Studies
 
