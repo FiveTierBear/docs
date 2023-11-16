@@ -84,6 +84,7 @@
   * [State University of New York](resources/case-studies/state-university-of-new-york.md)
   * [Generating immediate donation awareness for Hurricane Harvey Relief](resources/case-studies/generating-immediate-donation-awareness-for-hurricane-harvey-relief.md)
 * [✍ Blog](resources/blog/README.md)
+  * [Maximizing ROI with Advanced Reporting: A Data-Driven Approach to Marketing Success](resources/blog/maximizing-roi-with-advanced-reporting-a-data-driven-approach-to-marketing-success.md)
   * [Social List Building and Outreach](resources/blog/social-list-building-and-outreach.md)
   * [Cost per Thousand (CPM) Impression Pricing and Recommended Bidding](resources/blog/cost-per-thousand-cpm-impression-pricing-and-recommended-bidding.md)
   * [The benefits of Connected Television (CTV) advertising for small companies](resources/blog/the-benefits-of-connected-television-ctv-advertising-for-small-companies.md)
